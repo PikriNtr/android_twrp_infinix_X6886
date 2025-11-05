@@ -21,4 +21,4 @@
 
 ## Device Picture
 
-![Infinix HOT 60 Pro Plus]([https://fdn2.gsmarena.com/vv/pics/infinix/infinix-hot-60-pro-plus-1.jpg](https://fdn2.gsmarena.com/vv/pics/infinix/infinix-hot-60-pro-plus-2.jpg))
+![Infinix HOT 60 Pro Plus]([https://fdn2.gsmarena.com/vv/pics/infinix/infinix-hot-60-pro-plus-2.jpg))
